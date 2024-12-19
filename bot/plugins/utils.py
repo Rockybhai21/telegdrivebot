@@ -1,5 +1,7 @@
 import os
 import shutil
+pip install sqlalchemy-mongodb
+pip install mongoengine
 from os import execl
 from time import sleep
 from sys import executable
